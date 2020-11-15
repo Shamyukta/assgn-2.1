@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product_details.xsl" ?>
+<product_details>
+<product>
+<name>1.SALAZA </name>
+<price>1499</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people". </description>
+
+</product>
+<product>
+<name>2. FARAZA SULME</name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>3.CHANKERIZA </name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>4.NALA DAMAYANTI</name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>5.LOREX SUIT </name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>6.FARAH KAHN </name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>7. NALA VENBA</name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>8.YAZHINI </name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+<product>
+<name>9.SWIXXYSUIT </name>
+<price>1599</price>
+<description>"Ethnic wear is the part of Indian culture that truly followed by the people".</description>
+
+</product>
+</product_details>

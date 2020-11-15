@@ -1,0 +1,10 @@
+
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "NALA DAMAYANTI",
+      "FABRIC": "CHANDHERI COTTON",
+     
+      "PRICE": "Rs. 1399",
+      "REVIEW": "8.8/10",
+      
+   }

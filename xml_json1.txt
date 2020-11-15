@@ -1,0 +1,72 @@
+[
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "SALAZA",
+      "FABRIC": "BANDHERI COTTON",
+      "PRICE": "Rs. 1499",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "SALAZA",
+      "FABRIC": "BANDHERI COTTON",
+      "PRICE": "Rs. 1499",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "FARAZA SULME",
+      "FABRIC": "BANDHERI COTTON",
+      "PRICE": "Rs. 1599",
+      "REVIEW": "9/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "CHANKERIZA",
+      "FABRIC": "BANDHERI COTTON",
+      "PRICE": "Rs. 1799",
+      "REVIEW": "8.5/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "NALA DAMAYANTI",
+      "FABRIC": "CHANDHERI COTTON",
+      "PRICE": "Rs. 1399",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "LOREX SUIT",
+      "FABRIC": "CHANDHERI COTTON",
+      "PRICE": "Rs. 1499",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "FARAH KAHN",
+      "FABRIC": "CHIKANKARI",
+      "PRICE": "Rs. 1499",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "NALA VENBA",
+      "FABRIC": "CHIKANKARI",
+      "PRICE": "Rs. 1799",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "YAZHINI",
+      "FABRIC": "CHIKANKARI",
+      "PRICE": "Rs. 1599",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "ETHNIC WEAR",
+      "PRODUCT": "SWIXXYSUIT",
+      "FABRIC": "CHIKANKARI",
+      "PRICE": "Rs. 1899",
+      "REVIEW": "8/10"
+   }
+]
